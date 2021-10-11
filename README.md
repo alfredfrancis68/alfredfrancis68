@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hey guys 👋, its me Alfred Francis 🤗
+### Hi there 👋, its me Alfred Francis 🤗
 
 🖥️ A passionate frontend developer
 
@@ -8,7 +6,7 @@ Hey guys 👋, its me Alfred Francis 🤗
 
 💬 Ask me about front-end development
 
-📫 How to reach me alfred.francis68@gmail.com
+📫 How to reach me : alfred.francis68@gmail.com
 
 ⚡ Love To Do coding and listen to music 🎧 & sing 🎤 at the same time 🕐
 
