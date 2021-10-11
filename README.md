@@ -149,7 +149,7 @@
 <br/>
   
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=w5zg073b7ugjqr83nxcg59z7e&cover_image=true&theme=default" /></div>  
+<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=w5zg073b7ugjqr83nxcg59z7e&cover_image=true&theme=default" /></div>   -->
 
 <br/>  
 
