@@ -6,11 +6,10 @@
 <br>
 💬 Ask me about front-end development
 <br>
-📫 How to reach me : alfred.francis68@gmail.com
-<br>
 ⚡ Love To Do coding and listen to music 🎧 & sing 🎤 at the same time 🕐
 <br>
-
+📫 Mail me at : alfred.francis68@gmail.com
+<br>
 <!-- **alfredfrancis68/alfredfrancis68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
