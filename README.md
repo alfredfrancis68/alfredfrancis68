@@ -21,12 +21,12 @@
 <br/>  
 
 
-## My Skill Set  
+# My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
 
-### Frontend  
+# Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -49,16 +49,16 @@
  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />   -->
  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />   -->
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### Backend  
+# Backend  
 <div align="center">  
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -80,7 +80,7 @@
 
 
 
-### DevOps  
+# DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
@@ -95,7 +95,7 @@
 <br/>  
 
 
-<h1>## Connect with me <h1>
+<h1># Connect with me <h1>
 <div align="center">
 <a href="https://github.com/alfredfrancis68" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -130,7 +130,7 @@
 <br/>  
 
 
-## Github Stats  
+# Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=alfredfrancis68&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
@@ -140,8 +140,9 @@
 <!-- BLOG-POST-LIST:START -->  
 <!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.  -->
 <!-- BLOG-POST-LIST:END -->  
- -->
-<br/>  
+ 
+<br/>
+  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=w5zg073b7ugjqr83nxcg59z7e&cover_image=true&theme=default" /></div>  
 
