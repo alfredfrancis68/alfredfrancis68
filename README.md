@@ -125,15 +125,15 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
   
-<img src=""
+<img src="93195.gif" align="right" height:"400px" width:"450px">
 </div>  
   
 
 <br/>  
 
 
-# Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=alfredfrancis68&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<h1># Github Stats </h1> 
+<div align="centre"><img src="https://github-readme-stats.vercel.app/api?username=alfredfrancis68&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
