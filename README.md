@@ -6,16 +6,16 @@
 <h1><div align="center"># I'm Alfred Francis, a full-time full-stack enthusiast 🚀</div>  <h1>
   
 
-- 🔭 I’m currently working on some   
+- 🔭 I’m currently working on some frontend projects for ICUBE.  
   
 
-- 🌱 I’m currently learning MERN and ML  
+- 🌱 I’m currently learning MERN and ML.
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and related technologies.  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces. 
   
 
 <br/>  
