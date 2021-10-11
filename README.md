@@ -1,10 +1,6 @@
-<!-- <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 1400px" />
-</div>   -->
-  
-
-<h1><div align="center"> I'm Alfred Francis, a full-time full-stack enthusiast 🚀</div>  <h1>
-  
+<h1><div align="center">Hey there 👋,  I'm Alfred Francis, a Fullstack Enthusiast 🚀</div>  <h1>
+<div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 1400px" />
+</div>    
 
 - 🔭 I’m currently working on some frontend projects for ICUBE.  
   
