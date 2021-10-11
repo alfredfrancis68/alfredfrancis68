@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 1400px" />
-</div>  
+</div>   -->
   
 
 <h1><div align="center"> I'm Alfred Francis, a full-time full-stack enthusiast 🚀</div>  <h1>
