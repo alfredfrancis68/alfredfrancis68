@@ -21,7 +21,7 @@
 <br/>  
 
 
-# My Skill Set  
+  <h1># My Skill Set</h1>  
 <table><tr><td valign="top" width="33%">
 
 
@@ -96,7 +96,7 @@
 
 
 <h1># Connect with me <h1>
-<div align="center">
+<div align="left">
 <a href="https://github.com/alfredfrancis68" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -112,6 +112,9 @@
 <a href="https://dev.to/alfredfrancis68" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
+  
+  <img src="93195.gif" align="right" height="200px" width="350px">
+  
 <a href="https://stackoverflow.com/users/alfredfranflow" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
@@ -125,7 +128,7 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
   
-<img src="93195.gif" align="right" height:"400px" width:"450px">
+
 </div>  
   
 
@@ -133,7 +136,7 @@
 
 
 <h1># Github Stats </h1> 
-<div align="centre"><img src="https://github-readme-stats.vercel.app/api?username=alfredfrancis68&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alfredfrancis68&show_icons=true&count_private=true&hide_border=true" align="center"  /></div>  
 
 <br/>  
 
