@@ -3,7 +3,7 @@
 </div>  
   
 
-<h1><div align="center"># I'm Alfred Francis, a full-time full-stack enthusiast 🚀</div>  <h1>
+<h1><div align="center"> I'm Alfred Francis, a full-time full-stack enthusiast 🚀</div>  <h1>
   
 
 - 🔭 I’m currently working on some frontend projects for ICUBE.  
