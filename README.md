@@ -1,7 +1,19 @@
 ### Hi there 👋
 
-<!--
-**alfredfrancis68/alfredfrancis68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey guys 👋, its me Alfred Francis 🤗
+
+🖥️ A passionate frontend developer
+
+👀 I’m currently learning MERNStack and ML
+
+💬 Ask me about front-end development
+
+📫 How to reach me alfred.francis68@gmail.com
+
+⚡ Love To Do coding and listen to music 🎧 & sing 🎤 at the same time 🕐
+
+
+<!-- **alfredfrancis68/alfredfrancis68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +25,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+ -->
