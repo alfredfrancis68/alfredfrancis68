@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning MERN and ML.
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies.  
+- ❓ Ask me anything related to MERN stack and related technologies.  
   
 
 - ⚡ Fun fact: I use tabs over spaces. 
