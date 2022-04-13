@@ -2,7 +2,7 @@
 <div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 1400px" />
 </div>    
 
-- 🔭 I’m currently working on some frontend projects for ICUBE.  
+- 🔭 I’m currently concentrating on some frontend projects. 
   
 
 - 🌱 I’m currently learning MERN and ML.
